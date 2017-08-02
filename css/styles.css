@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+.column{
+  float: left;
+  width:30%;
+  height: 670px;
+  border: 2px solid red;
+  text-align: center;
+  padding-top: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+.img{
+
+}
+.column img{
+  max-width: 60%;
+}
+h1{
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  font-size: 100px;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+}
